@@ -1,2 +1,1 @@
-# fullstack_notes
-my personal notes on fullstack development
+# drumkit game from angela yu web dev
